@@ -2,8 +2,9 @@
   "name": "WebRTC-demo",
   "description": "A simple WebRTC demo",
   "dependencies": {
+    "mime": "^1.3.6",
     "uuid": "^3.0.1",
-    "ws": "^2.1.0"
+    "ws": "^3.0.0"
   },
   "readmeFilename": "README.md"
 }
